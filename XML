@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE logjasa SYSTEM "logjasa.dtd">
+<logjasa>
+	<direksi>
+		<nama>Dr. Ir. H. Arifien Habibie, MS </nama>
+		<nosk>SK-210/MBU/2012</nosk>
+		<golongan>IIIB</golongan>
+		<jk>laki-laki</jk>
+		<alamat>jl.sariasih no.54,Sarijadi</alamat>
+		<ttl>Gorontalo,31 Januari 1953</ttl>
+		<umur>64</umur>
+		<agama>Islam</agama>
+		<pendterakhir>S3</pendterakhir>
+		<status>Menikah</status>
+	</direksi>
+	<komisaris>
+		<nama>Muradi, SS., M.Si., M.Sc., Ph.D.</nama>
+		<nosk>SK-166/MBU/09/2015</nosk>
+		<golongan>IV</golongan>
+		<jk>laki-laki</jk>
+		<alamat>jl.Suparman no.02,Sarijadi</alamat>
+		<ttl>Jakarta,10 Mei 1975</ttl>
+		<umur>42</umur>
+		<agama>Islam</agama>
+		<pendterakhir>S3</pendterakhir>
+		<status>Menikah</status>
+	</komisaris>
+	<direktur>
+		<nama>Ir. Zakky Gamal Yasin, MM</nama>
+		<nosk>SK Menteri BUMN</nosk>
+		<golongan>II</golongan>
+		<jk>laki-laki</jk>
+		<alamat>jl.Soekarno Hatta no.21,Bandung</alamat>
+		<ttl>Jakarta,6 Agustus 1976</ttl>
+		<umur>41</umur>
+		<agama>Islam</agama>
+		<pendterakhir>S2</pendterakhir>
+		<status>Belum Menikah</status>
+	</direktur>
+	<divproduksi>
+		<nama>Asep Sopandi, Drs.</nama>
+		<nosk>SK Menteri BUMN</nosk>
+		<golongan>I</golongan>
+		<jk>laki-laki</jk>
+		<alamat>jl.Suparman no.02,Sarijadi</alamat>
+		<ttl>Bandung, 24 Maret 1962</ttl>
+		<umur>55</umur>
+		<agama>Kristen</agama>
+		<pendterakhir>S1</pendterakhir>
+		<status>Belum Menikah</status>
+	</divproduksi>
+	<divkeuangan>
+		<nama>Atini Hasanah, Ir. M.Eng.</nama>
+		<nosk>SK-166/MBU/09/2012</nosk>
+		<golongan>S3</golongan>
+		<jk>perempuan</jk>
+		<alamat>jl.Banda no.32,Bandung</alamat>
+		<ttl>Yogyakarta 03 Juli 1967</ttl>
+		<umur>41</umur>
+		<agama>Hindu</agama>
+		<pendterakhir>S3</pendterakhir>
+		<status>Belum Menikah</status>
+	</divkeuangan>	
+</logjasa>
+	
+
