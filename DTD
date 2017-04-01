@@ -1,0 +1,71 @@
+<?xml encoding="UTF-8"?>
+
+<!ELEMENT logjasa (direksi,komisaris,direktur,divproduksi,divkeuangan)>
+<!ATTLIST logjasa
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT direksi (nama,nosk,golongan,jk,alamat,ttl,umur,agama,pendterakhir,
+                   status)>
+<!ATTLIST direksi
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT komisaris (nama,nosk,golongan,jk,alamat,ttl,umur,agama,pendterakhir,
+                     status)>
+<!ATTLIST komisaris
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT direktur (nama,nosk,golongan,jk,alamat,ttl,umur,agama,pendterakhir,
+                    status)>
+<!ATTLIST direktur
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT divproduksi (nama,nosk,golongan,jk,alamat,ttl,umur,agama,pendterakhir,
+                       status)>
+<!ATTLIST divproduksi
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT divkeuangan (nama,nosk,golongan,jk,alamat,ttl,umur,agama,pendterakhir,
+                       status)>
+<!ATTLIST divkeuangan
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT nama (#PCDATA)>
+<!ATTLIST nama
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT nosk (#PCDATA)>
+<!ATTLIST nosk
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT golongan (#PCDATA)>
+<!ATTLIST golongan
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT jk (#PCDATA)>
+<!ATTLIST jk
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT alamat (#PCDATA)>
+<!ATTLIST alamat
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT ttl (#PCDATA)>
+<!ATTLIST ttl
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT umur (#PCDATA)>
+<!ATTLIST umur
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT agama (#PCDATA)>
+<!ATTLIST agama
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT pendterakhir (#PCDATA)>
+<!ATTLIST pendterakhir
+    xmlns CDATA #FIXED ''>
+
+<!ELEMENT status (#PCDATA)>
+<!ATTLIST status
+    xmlns CDATA #FIXED ''>
+
